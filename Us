@@ -21,12 +21,9 @@ DOMAIN-SUFFIX,misty.cx
 #月饼
 DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,emby.my
-DOMAIN-SUFFIX,uhebs.emby.my
 
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
-DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
 
 #CC公益
 DOMAIN-SUFFIX,coemn.com
@@ -41,10 +38,7 @@ DOMAIN-SUFFIX,itsmyduty.top
 #SDL
 DOMAIN-SUFFIX,saturdayvideo.top
 
-#天南
-DOMAIN-SUFFIX,us.nanflix.net
-
-#守候影院
+#守候
 DOMAIN-SUFFIX,cn2gias.uk
 
 #见手青
@@ -72,13 +66,13 @@ DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,onatoshi.114514.quest
 
 #KikuEmby
-DOMAIN-SUFFIX,emby.ucloudhost.top
+DOMAIN-SUFFIX,ucloudhost.top
 
 #YounoEmby
 DOMAIN-SUFFIX,emby.younoyes.com
 
 #大V
-DOMAIN-SUFFIX,su.viclub.top
+DOMAIN-SUFFIX,viclub.top
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
@@ -93,11 +87,11 @@ DOMAIN-SUFFIX,gy.meowfly.de
 #105°
 DOMAIN-SUFFIX,ciallo.party
 
-#Shrek公益服
-DOMAIN-SUFFIX,public.shrekmedia.org
+#Shrek
+DOMAIN-SUFFIX,shrekmedia.org
 
 #HOHAI
-DOMAIN-SUFFIX,emby.hohai.eu.org
+DOMAIN-SUFFIX,eu.org
 
 #OKEMBY
 DOMAIN-SUFFIX,okemby.org
@@ -116,14 +110,6 @@ DOMAIN-SUFFIX,notfounda.shop
 
 #周三晚
 DOMAIN-SUFFIX,zhousanwan.xyz
-
-#emos
-DOMAIN-SUFFIX,emos.lol
-DOMAIN-SUFFIX,emos.dolby.dpdns.org
-
-#empn
-DOMAIN-SUFFIX,empn.mom
-DOMAIN-SUFFIX,sharepoint.com
 
 #叔服
 DOMAIN-SUFFIX,shufu.club
