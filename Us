@@ -1,3 +1,6 @@
+#ntrrr
+DOMAIN-SUFFIX,ntrrr.top
+
 #终点站
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
@@ -30,13 +33,13 @@ DOMAIN-SUFFIX,coemn.com
 DOMAIN-SUFFIX,embycc.link
 
 #非越
-DOMAIN-SUFFIX,z.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 
 #拉拉服
 DOMAIN-SUFFIX,itsmyduty.top
 
 #SDL
-DOMAIN-SUFFIX,lite.saturdayvideo.top
+DOMAIN-SUFFIX,saturdayvideo.top
 
 #天南
 DOMAIN-SUFFIX,us.nanflix.net
@@ -45,10 +48,13 @@ DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,cn2gias.uk
 
 #见手青
-DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN-SUFFIX,vban.xyz
 
 #飞跃彩虹
-DOMAIN-SUFFIX,yhemby.top
+DOMAIN-SUFFIX,feiyue.lol
+
+#游骑兵
+DOMAIN-SUFFIX,heisi.org
 
 #Peach
 DOMAIN-SUFFIX,embymv.link
@@ -78,7 +84,8 @@ DOMAIN-SUFFIX,su.viclub.top
 DOMAIN-SUFFIX,pieclip.okbap.com
 
 #DP
-DOMAIN-SUFFIX,emby.bwihz.cn
+DOMAIN-SUFFIX,bwihz.cn
+DOMAIN-SUFFIX,dpeak.top
 
 #飞了个喵
 DOMAIN-SUFFIX,gy.meowfly.de
@@ -93,33 +100,40 @@ DOMAIN-SUFFIX,public.shrekmedia.org
 DOMAIN-SUFFIX,emby.hohai.eu.org
 
 #OKEMBY
-DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,okemby.org
 
 #泥嚎
-DOMAIN-SUFFIX,emby.istyboe.top
+DOMAIN-SUFFIX,istyboe.top
 
-#反代
-DOMAIN-SUFFIX,dolby.dpdns.org
-
-#emos
-DOMAIN-SUFFIX,emos.lol
-DOMAIN-SUFFIX,emos.dolby.dpdns.org
+#BCXC
+DOMAIN-SUFFIX,l0323.top
 
 #EmbyDaDa
 DOMAIN-SUFFIX,10520.xyz
 
 #404
-DOMAIN-SUFFIX,ns1e.notfounda.shop
+DOMAIN-SUFFIX,notfounda.shop
 
 #周三晚
 DOMAIN-SUFFIX,zhousanwan.xyz
+
+#emos
+DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,emos.dolby.dpdns.org
 
 #empn
 DOMAIN-SUFFIX,empn.mom
 DOMAIN-SUFFIX,sharepoint.com
 
-#ok
-DOMAIN-SUFFIX,okemby.org
+#叔服
+DOMAIN-SUFFIX,shufu.club
+
+#Nsfw
+DOMAIN-SUFFIX,xrbzy.xyz
+
+#神秘礼物
+DOMAIN-SUFFIX,jcnf.xyz
+DOMAIN-SUFFIX,smlwmv.com
 
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
