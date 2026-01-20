@@ -1,22 +1,8 @@
 #ntrrr
 DOMAIN-SUFFIX,ntrrr.top
 
-#终点站
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
-
-#起点站公益
-DOMAIN-SUFFIX,freewhite.startspoint.com
-DOMAIN-SUFFIX,free.28.al
-
-#Yomo
-DOMAIN-SUFFIX,emby.yamo.uk
-
-#星云
-DOMAIN-SUFFIX,nebula-media.org
-
-#misty
-DOMAIN-SUFFIX,misty.cx
+#起点站
+DOMAIN-SUFFIX,28.al
 
 #月饼
 DOMAIN-SUFFIX,a.emby.my
@@ -29,20 +15,8 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,coemn.com
 DOMAIN-SUFFIX,embycc.link
 
-#非越
-DOMAIN-SUFFIX,sfcj.org
-
-#拉拉服
-DOMAIN-SUFFIX,itsmyduty.top
-
 #SDL
 DOMAIN-SUFFIX,saturdayvideo.top
-
-#守候
-DOMAIN-SUFFIX,cn2gias.uk
-
-#见手青
-DOMAIN-SUFFIX,vban.xyz
 
 #飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
@@ -65,17 +39,11 @@ DOMAIN-SUFFIX,tanhuatv.site
 #Doubon
 DOMAIN-SUFFIX,onatoshi.114514.quest
 
-#KikuEmby
-DOMAIN-SUFFIX,ucloudhost.top
-
 #YounoEmby
 DOMAIN-SUFFIX,emby.younoyes.com
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
-
-#飞了个喵
-DOMAIN-SUFFIX,gy.meowfly.de
 
 #105°
 DOMAIN-SUFFIX,ciallo.party
@@ -85,24 +53,6 @@ DOMAIN-SUFFIX,eu.org
 
 #Shrek
 DOMAIN-SUFFIX,shrekmedia.org
-
-#OKEMBY
-DOMAIN-SUFFIX,okemby.org
-
-#泥嚎
-DOMAIN-SUFFIX,istyboe.top
-
-#BCXC
-DOMAIN-SUFFIX,l0323.top
-
-#EmbyDaDa
-DOMAIN-SUFFIX,10520.xyz
-
-#404
-DOMAIN-SUFFIX,notfounda.shop
-
-#周三晚
-DOMAIN-SUFFIX,zhousanwan.xyz
 
 #叔服
 DOMAIN-SUFFIX,shufu.club
