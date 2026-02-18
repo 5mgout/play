@@ -22,10 +22,6 @@ DOMAIN-KEYWORD,saodu
 #小姨子
 DOMAIN-SUFFIX,emby.yun
 
-#ETFLIX
-DOMAIN-SUFFIX,entertang.work
-DOMAIN-SUFFIX,etflix.lol
-
 #Cloud
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,xxzi.top
@@ -42,6 +38,7 @@ DOMAIN-SUFFIX,reily999.top
 
 #鲨鱼
 DOMAIN-SUFFIX,525778.xyz
+DOMAIN-SUFFIX,shayuemby.top
 
 #LeEmby
 DOMAIN-SUFFIX,131446.xyz
