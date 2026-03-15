@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,xrbzy.xyz
 DOMAIN-SUFFIX,jcnf.xyz
 DOMAIN-SUFFIX,smlwmv.com
 
+#CookieEmby
+DOMAIN-SUFFIX,nas.edu.kg
+
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,sport.pendy.dpdns.org
