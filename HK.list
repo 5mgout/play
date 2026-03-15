@@ -11,12 +11,6 @@ DOMAIN-SUFFIX,bangumi.ca
 #SDL
 DOMAIN-SUFFIX,saturdayvideo.top
 
-#飞跃彩虹
-DOMAIN-SUFFIX,feiyue.lol
-
-#Peach
-DOMAIN-SUFFIX,embymv.link
-
 #探花
 DOMAIN-SUFFIX,tanhuatv.site
 
@@ -48,7 +42,4 @@ DOMAIN-SUFFIX,smlwmv.com
 #CookieEmby
 DOMAIN-SUFFIX,nas.edu.kg
 
-#APTV
-DOMAIN-SUFFIX,smart.pendy.dpdns.org
-DOMAIN-SUFFIX,sport.pendy.dpdns.org
-DOMAIN-SUFFIX,docker.livednow.dpdns.org
+
