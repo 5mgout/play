@@ -1,6 +1,3 @@
-#起点站
-DOMAIN-SUFFIX,28.al
-
 #叔服
 DOMAIN-SUFFIX,shufu.club
 
@@ -10,9 +7,6 @@ DOMAIN-SUFFIX,heisi.org
 #飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
 
-#Peach
-DOMAIN-SUFFIX,embymv.link
-
 #Mirai
 DOMAIN-SUFFIX,miraiemby.com
 
@@ -21,9 +15,6 @@ DOMAIN-SUFFIX,pieclip.okbap.com
 
 #佬友记
 DOMAIN-SUFFIX,emby.605305.xyz
-
-#守候
-DOMAIN-SUFFIX,cn2gias.uk
 
 #ME
 DOMAIN-SUFFIX,mebimmer.de
