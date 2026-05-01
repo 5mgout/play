@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,emby.my
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
 
-#SDL
-DOMAIN-SUFFIX,saturdayvideo.top
-
 #探花
 DOMAIN-SUFFIX,tanhuatv.site
 
@@ -41,8 +38,5 @@ DOMAIN-SUFFIX,smlwmv.com
 
 #小鸡
 DOMAIN-SUFFIX,sadchicktv.com
-
-#星影
-DOMAIN-SUFFIX,potdot.de
 
 
