@@ -4,9 +4,6 @@ DOMAIN-KEYWORD,jetour
 #maj-soul
 DOMAIN-KEYWORD,maj-soul
 
-#音海
-DOMAIN-KEYWORD,aiinyue
-
 #稳健
 DOMAIN,yin.wenjian.de
 
@@ -15,10 +12,6 @@ DOMAIN-SUFFIX,567741.net
 
 #MDL
 DOMAIN-KEYWORD,saodu
-
-#CC公益
-DOMAIN-SUFFIX,coemn.com
-DOMAIN-SUFFIX,mnyvc.xyz
 
 #小姨子
 DOMAIN-SUFFIX,emby.yun
@@ -42,9 +35,6 @@ DOMAIN-SUFFIX,shayuemby.top
 #LeEmby
 DOMAIN-SUFFIX,131446.xyz
 
-#emos
-DOMAIN-SUFFIX,emos.best
-
 #ME
 DOMAIN,meenjoyrn.mebimmer.de
 
@@ -53,9 +43,6 @@ DOMAIN-SUFFIX,4348663.xyz
 
 #ゆりか
 DOMAIN-SUFFIX,43992026.xyz
-
-#Mirai
-DOMAIN-SUFFIX,jiedaibao.gs
 
 #🍪
 DOMAIN,cookieadd.dpdns.org
