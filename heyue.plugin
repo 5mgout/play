@@ -1,0 +1,6 @@
+[MITM]
+hostname = aster.yuxiaor.com
+
+[Rewrite]
+# 拦截小程序内的广告配置并返回空 JSON
+^https?:\/\/aster\.yuxiaor\.com\/config\/aster.*ad-config.* response-body-json-del reject-dict
