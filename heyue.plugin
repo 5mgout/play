@@ -2,5 +2,6 @@
 hostname = aster.yuxiaor.com
 
 [Rewrite]
-# 拦截小程序内的广告配置并返回空 JSON
-^https?:\/\/aster\.yuxiaor\.com\/config\/aster.*ad-config.* response-body-json-del reject-dict
+^https?://aster\.yuxiaor\.com/config/aster-ad-config-v4\.json response-body-json-replace data []
+^https?://aster\.yuxiaor\.com/config/aster-home-public-ad-config-v2\.json response-body-json-replace data.ads {}
+^https?://aster\.yuxiaor\.com/config/aster-global-ad-config-v1\.json response-body-json-replace positions {}
