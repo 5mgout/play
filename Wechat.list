@@ -1,4 +1,12 @@
 # NAME: WeChat
+# DOMAIN: 7
+# DOMAINKEYWORD: 234
+# DOMAIN-SUFFIX: 22
+# IP-ASN: 1
+# IP-CIDR: 3
+# IP-CIDR6: 64
+# USER-AGENT: 2
+# TOTAL: 332
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,dldir1.qq.com
 DOMAIN,slife.xy-asia.com
