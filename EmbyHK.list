@@ -1,9 +1,6 @@
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
 
-#探花
-DOMAIN-SUFFIX,tanhuatv.site
-
 #Doubon
 DOMAIN-SUFFIX,onatoshi.114514.quest
 
@@ -16,18 +13,9 @@ DOMAIN-SUFFIX,ciallo.party
 #Hohai
 DOMAIN-SUFFIX,hohai.eu.org
 
-#Shrek
-DOMAIN-SUFFIX,shrekmedia.org
-
 #神秘礼物
 DOMAIN-SUFFIX,jcnf.xyz
 DOMAIN-SUFFIX,smlwmv.com
-
-#Ask
-DOMAIN-SUFFIX,711.lol
-
-#Mikari
-DOMAIN-SUFFIX,mikari.org
 
 #ME
 DOMAIN-SUFFIX,mebimmer.de
